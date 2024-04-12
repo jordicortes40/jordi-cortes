@@ -12,7 +12,7 @@ navbar:
       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
-      href: cv.pdf
+      href: CV.pdf
   right:
     - text: "Contact me"
       icon: fa-envelope-o

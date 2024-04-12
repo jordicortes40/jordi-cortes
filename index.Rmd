@@ -2,4 +2,12 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+![](images/jordi_cortes.jpg){width=20%}
+
+Researcher at Universitat Politècnica de Catalunya since 2017. Lecturer professor at Universitat Politècnica de Catalunya since 2022. Statistical consultant since 2012.  
+
+I have a background in Statistics and my primary fields of expertise are:
+
+1. **Clinical trials**: design, analysis and reporting. Treatment effect heterogeneity.
+2. **Survival analysis**: composite endpoints, non-proportional hazards.
+3. **R Programming**.  

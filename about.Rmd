@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-## About me
+![](images/jordi_cortes.jpg){width=20%}
 
 Researcher at Universitat Politècnica de Catalunya since 2017. Lecturer professor at Universitat Politècnica de Catalunya since 2022. Statistical consultant since 2012.  
 
