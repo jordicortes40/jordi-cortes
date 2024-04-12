@@ -14,8 +14,8 @@ navbar:
       icon: fa-file-pdf-o
       href: CV.pdf
     - text: "Experience"
-      icon: fa-file-pdf-o
-      href: Experience.html  
+      icon: fa-briefcase
+      href: Experience.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
