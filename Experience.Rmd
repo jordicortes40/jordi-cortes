@@ -1,0 +1,37 @@
+---
+title: "Experience"
+---
+
+- **Lecturer professor**. [Universitat Politècnica de Catalunya](https://www.upc.edu/en). Barcelona. From 2022-09-01 to present. Main courses:
+  
+  * Probability and Statistics - Degree in Informatics Engineering
+  * Generalized linear models - Degree in Statistics
+  * Quantitative techniques of Marketing - Master in Statistics and Operations Research
+  * Design of experiments - Master in Industry 4.0 (UPC - TALENT)
+  * Biomedical Statistics - Master in Biomedical Data Science
+
+- **Assistant professor**. [Universitat Politècnica de Catalunya](https://www.upc.edu/en). Barcelona. From 2012-09-01 to 2022-08-31.Main courses:
+  
+  * Statistical Software - Degree in Statistics 
+  * Probability and Statistics - Degree in Informatics Engineering
+  * Statistics - Degree in Mathematics
+  * Generalized linear models - Degree in Statistics
+  * Quantitative techniques of Marketing - Master in Statistics and Operations Research
+  * Design of experiments - Master in Industry 4.0 (UPC - TALENT)
+  
+
+- **Assistant professor**. [La Salle Ramon Llull](https://www.salleurl.edu/en). Barcelona. From 2017-09-01 to 2022-12-31. Main courses:
+  
+  * Statistics - Master in Big Data
+  
+
+- **Assistant professor**. [ESAME - Universitat de Barcelona](https://www.esame.org/?lang=en). Barcelona. From 2019-09-01 to present. Main courses:
+  
+  * Design of Clinical Trials - Master of scientific departments in pharma industry
+  * Types of design, variable selection and causal inference - Master in Clinical Trial Monitoring
+
+- **Researcher**. [Universitat Politècnica de Catalunya](https://www.upc.edu/en). Barcelona. From 2008-09-01 to present. Research in several fields, such as composite endpoints, effect of reporting guidelines on the quality of the manuscripts, etc...
+
+- **Researcher statistician**. [IDIAP Jordi Gol](https://www.idiapjgol.org/index.php/en/). Barcelona. From 2015-09-01 to 2017-08-31. Consultancy in several projects related with primary care.
+  
+- **Statistical Programmer**. [Educaweb](https://www.educaweb.com/). Barcelona. From 2014-09-01 to 2015-09-01. Business Inteligence.
